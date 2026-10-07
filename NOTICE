@@ -1,0 +1,6 @@
+strands-loop-guard
+Copyright 2026 Serene Aryal
+
+The project layout, build configuration and GitHub workflows come from
+strands-agents/extension-template (https://github.com/strands-agents/extension-template),
+licensed under the Apache License, Version 2.0.
